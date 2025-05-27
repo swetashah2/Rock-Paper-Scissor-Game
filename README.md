@@ -14,6 +14,10 @@ A fun and interactive Rock, Paper, Scissors game built with HTML, CSS, and JavaS
 
 ## 🚀 Preview
 ![Gameplay Demo](./RPS.gif)
+<p align="center">
+  <img src="./RPS.gif" width="600"/>
+</p>
+
 
 > Try to beat the computer... and celebrate with confetti when you win!
 
