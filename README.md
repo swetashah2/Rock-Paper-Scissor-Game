@@ -13,7 +13,7 @@ A fun and interactive Rock, Paper, Scissors game built with HTML, CSS, and JavaS
 - 📱 Responsive and works in modern browsers
 
 ## 🚀 Preview
-<p align="center">
+<p>
   <img src="./RPS.gif" width="600"/>
 </p>
 
