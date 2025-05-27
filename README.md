@@ -23,4 +23,13 @@ A fun and interactive Rock, Paper, Scissors game built with HTML, CSS, and JavaS
 - **JavaScript** for game logic and dynamic effects
 
 ## 📂 Project Structure
+rock-paper-scissors/
+│
+├── index.html # Main HTML file
+├── style.css # Styling and animations
+├── app.js # Game logic & interactivity
+├── rock.png # Rock image
+├── paper.png # Paper image
+├── scissor.png # Scissor image
+└── screenshot.png # (Optional) Screenshot for README
 
