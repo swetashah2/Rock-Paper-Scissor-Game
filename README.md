@@ -23,7 +23,6 @@ A fun and interactive Rock, Paper, Scissors game built with HTML, CSS, and JavaS
 - **JavaScript** for game logic and dynamic effects
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```plaintext
 rock-paper-scissors/
@@ -33,6 +32,18 @@ rock-paper-scissors/
 ├── rock.png         # Rock image
 ├── paper.png        # Paper image
 ├── scissor.png      # Scissor image
-└── screenshot.png   # (Optional) Screenshot for README
+└── screenshot.png   # Screenshot for README
+```
+
+## 🎯 Future Ideas
+*Add sound effects 🎵 <br>
+*Show running score 🧮 <br>
+*Multiplayer mode 🔗
+
+## 🤝 Contributing
+Pull requests are welcome! <br>
+If you have suggestions, ideas, or fixes, feel free to open an issue or fork this repo.
+
+> THANKYOU :>
 
 
